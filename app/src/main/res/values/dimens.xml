@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="input_margin">35dp</dimen>
+    <dimen name="menu_buttons_padding">20dp</dimen>
+    <dimen name="menu_button_margin">2dp</dimen>
+    <dimen name="menu_buttons_text">15sp</dimen>
+    <dimen name="menu_buttons_v">15dp</dimen>
+</resources>
